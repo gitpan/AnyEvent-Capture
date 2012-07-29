@@ -1,0 +1,45 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.68.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 c183fc16d315c41993ccd2078a156f7a4215293a ChangeLog
+SHA1 ef50cab217bcf1669eeb5f1da46a0c5ac3422d2d INSTALL
+SHA1 776b35de0d79370b17f9b26a61565d97aaee5acd LICENSE
+SHA1 557bfe52d50f6322a9e4046082e591ced21ec8ef MANIFEST
+SHA1 d3ce047536dc4bc09f4e1ee09d1d563b601c9baa META.yml
+SHA1 6e60c0f996dc64d0f5d9721debd4633000a8ffa7 Makefile.PL
+SHA1 5f3a51da1708366edc8987b9027ebceeb0d2a7fb README
+SHA1 524afd7eae807252892d2e65f41a3ee494a44a58 lib/AnyEvent/Capture.pm
+SHA1 cbdcd54f2f1a6a2a8c02a4661f6e7b2108c5a0ab t/basic.t
+SHA1 455d1dd1867212a665ad5ea4126b572411de300c t/release-no-tabs.t
+SHA1 8d931d5c7b6fc03e39a744d59522e4b7077562a1 t/release-portability.t
+SHA1 612226d447015079c046d65932f774304a4b9f20 t/release-synopsis.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJQFOxzAAoJEF6ojHedHIiFcxsP/1m1FfXArfXEptch3GIW0Nj8
+/4YbypbMj6yjkGJT9efeveSmhoJKFzcpRuf12drRdHouvFd47cNlw53Fm7yBpQLe
+u1yVfuRwyqJSyY4FwgWrLBfw8vgD6nI4zNgVjizAUSjBE689ONVHgpc8gUeeIQdH
+GClJrc6NgVuEeeTHrECmqannKP9TnKN+NdakjN7Su/jYYm3nZ8y2PpUnf3sEcFUx
+LMP+fiVdp1e+QuuUcNjgNQkufO4s6em91z02IQOY/8PoNxWa00Ce+DkKVR5M4tFG
+jG7FXGUrFKUK50nz3Hbt1aqQNzq+vusHqWgQPPfZgXEAj9Cg5p5eplR/Nix08uxM
+6nTICEcRJO1Oww2idgwDm9dhFYXJnnvT9aRnTGIY5B89MN8vxpWPLGUpXBHRMwHO
+hepZw4MlmnLihHANJNDNEPOsOh3ZI+WB+EzjQEFGHvmp716NeQZH5a+vHkBVXaCw
+nDtJKPl/ZKZA2Gj2o4BFqerba+T7GynHMW6YktfR3VFFGSiK3PAjCTSsgwj9Xwr6
+NtXUbdnzvTWkkwRjuiPb4BNudswAl39u9g572Fwc3kTUD3pUWCb3KSX8Dh1Ps6Jl
+6OlTAyQtsWt+EJWfHQ63QsEdmWP4i2QUJaq4D6voA7avY9KkMsbRiTpnvgnsQl7Z
+pD+blPUEVDackxLnHPrU
+=xJ7H
+-----END PGP SIGNATURE-----
