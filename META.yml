@@ -19,4 +19,4 @@ resources:
   bugtracker: https://github.com/iarna/AnyEvent-Capture/issues
   homepage: https://github.com/iarna/AnyEvent-Capture
   repository: https://github.com/iarna/AnyEvent-Capture.git
-version: 0.1.0
+version: 0.1.1
